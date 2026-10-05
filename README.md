@@ -1,4 +1,4 @@
-# 🐀 RAT-Lab
+# RAT-Lab
 
 ### Educational Client–Server Cybersecurity & Systems Programming Laboratory
 
